@@ -58,6 +58,7 @@ author:
   name: "Josh Dean"
   avatar : "/assets/images/bio-photo.jpg"
   bio: "Cloud Solutions Architect and intrested in all things tech" 
+  location: "Nottingham, UK"
   links:
     - label: "Email"
       icon: "fa fa-fw fa-envelope-square"
